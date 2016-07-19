@@ -1,0 +1,11 @@
+/**
+ * Created by Kimmo on 19.7.2016.
+ */
+{
+  "presets": ["react", "es2015"],
+  "env": {
+    "development": {
+      "presets": ["react-hmre"]
+    }
+  }
+}
