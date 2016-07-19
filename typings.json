@@ -1,0 +1,11 @@
+{
+  "name": "pluralsight-redux-starter",
+  "dependencies": {},
+  "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160619023404",
+    "react": "registry:dt/react#0.14.0+20160630100702",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "webpack": "registry:dt/webpack#1.12.9+20160523035535"
+  }
+}
